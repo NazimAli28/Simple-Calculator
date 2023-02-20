@@ -9,4 +9,5 @@ function calc() {
     console.log(num1, " - ", num2, " = ", sub);
     console.log(num1, " x ", num2, " = ", mul);
     console.log(num1, " / ", num2, " = ", div);
+    alert("Your Calculation is Done in Console Press F12 Than Goto Console ThankYou!");
 }
